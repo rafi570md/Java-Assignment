@@ -3,7 +3,7 @@ public class Factorial {
     int n;
     int i;
     
-    for(n=1;n<=5;n++){
+    for(n=1;n<=10;n++){
     int fact = 1;
         for(i=1;i<=n;i++)
     {
